@@ -5,7 +5,6 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.launch
-import ru.netology.netologyyamaps.dao.PlaceDao
 import ru.netology.netologyyamaps.db.PlaceDatabase
 import ru.netology.netologyyamaps.dto.Place
 import ru.netology.netologyyamaps.entity.PlaceEntity
