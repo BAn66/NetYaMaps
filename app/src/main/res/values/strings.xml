@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NetologyYaMaps</string>
+    <string name="Map">Map</string>
+    <string name="map_fragment_title">MAP</string>
+    <string name="places_fragment_title">PLACES</string>
+    <string name="zoom_plus">+</string>
+    <string name="zoom_minus">-</string>
+    <string name="currnet_place">Current place</string>
+    <string name="add_place">Add place</string>
+    <string name="to_places">To places</string>
+    <string name="empty">Empty</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+</resources>
