@@ -53,7 +53,6 @@ class PlacesAdapter(
                             else -> false
                         }
                     }
-
                     show()
                 }
             }
