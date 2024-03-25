@@ -125,7 +125,6 @@ class MapFragment : Fragment() {
             userLocation = MapKitFactory.getInstance().createUserLocationLayer(mapWindow)
             userLocation.isVisible = true
             userLocation.isHeadingEnabled = false
-
             mapWindow.map.addInputListener(listener)
 
             val collection = mapWindow.map.mapObjects.addCollection()
